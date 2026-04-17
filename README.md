@@ -161,7 +161,7 @@ If you want to see the enterprise-scale version of this (Kubernetes, HA Clusters
 
 **Contact:** [Bryan Perez on LinkedIn](https://www.linkedin.com/in/bryanperez) | **Organization:** CyberSentinels at Miami Dade College.
 
-*Everything here is verified operational. Build, Test, Defend.*
+*Everything here is verified operational.*
 
 ---
 ## ⚖️ License
