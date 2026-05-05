@@ -13,7 +13,7 @@
 ## 🏗️ The Philosophy: Blue Team Architecture
 I am a Blue Team Infrastructure Engineer and Cloud Architect. The goal of this workshop project is not to "hack," but to build foundations so resilient that the attack is neutralized before the operator can even respond. 
 
-This project leverages **AI-Driven Threat Validation**. I utilized generative AI as a technical consultant to source industry-standard attack vectors (Hydra/FIM) to stress-test this defensive architecture. This "Purple Team" approach ensures that the infrastructure I build is validated against real-world adversarial behavio
+This project leverages **AI-Driven Threat Validation**. I utilized generative AI as a technical consultant to source industry-standard attack vectors (Hydra/FIM) to stress-test this defensive architecture. This "Purple Team" approach ensures that the infrastructure I build is validated against real-world adversarial behavior.
 
 ---
 
