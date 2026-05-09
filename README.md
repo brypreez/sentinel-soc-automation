@@ -1,4 +1,4 @@
-# 🛡️ Sentinel-SOC-Automatio
+# 🛡️ Sentinel-SOC-Automationn
 
 ![Security Validation](https://img.shields.io/badge/Security-Validated-green.svg)
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Proxmox_HA-blue.svg)
