@@ -4,7 +4,7 @@
 ![Infrastructure](https://img.shields.io/badge/Infrastructure-Proxmox_HA-blue.svg)
 ![SIEM](https://img.shields.io/badge/SIEM-Wazuh_4.7-orange.svg)
 
-**Production-grade Automated Incide Response (AIR) pipeline. This repository documents the architecture of a 60-minute "Zero to Shield" SOC deployment, featuring sub-second detection, automated firewall orchestration, and enterprise-grade infrastructure segmentation.**
+**Production-grade Automated Inciden Response (AIR) pipeline. This repository documents the architecture of a 60-minute "Zero to Shield" SOC deployment, featuring sub-second detection, automated firewall orchestration, and enterprise-grade infrastructure segmentation.**
 
 > **MTTD:** < 1 Second | **MTTR:** < 1 Second | **Status:** Verified Operational
 
