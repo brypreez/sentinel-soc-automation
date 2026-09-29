@@ -18,7 +18,7 @@ This project leverages **AI-Driven Threat Validation**. I utilized generative AI
 ---
 
 ## 🖥️ Physical Hardware (The "Iron")
-The lab is host on an enterprise-grade high-availability cluster, designed for physical fault tolerance and high-fidelity telemetry ingestion.
+The lab is hoste on an enterprise-grade high-availability cluster, designed for physical fault tolerance and high-fidelity telemetry ingestion.
 
 | Component | Specification | Role |
 | :--- | :--- | :--- |
